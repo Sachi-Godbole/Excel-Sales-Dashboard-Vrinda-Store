@@ -1,4 +1,4 @@
-# Excel---Dashboards---Project-1
+#Excel-Sales-Dashboard-Vrinda-Store
 My Excel Dashboard Portfolio
 
 # Vrinda Store Sales Analysis Dashboard
